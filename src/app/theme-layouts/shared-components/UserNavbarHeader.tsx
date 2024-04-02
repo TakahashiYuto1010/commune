@@ -40,7 +40,7 @@ function UserNavbarHeader() {
 						color: 'text.secondary'
 					}}
 					className="avatar h-96 w-96 text-32 font-bold"
-					src="assets/images/logo/commune.svg"
+					src="assets/images/logo/commune.gif"
 					alt="commune logo"
 				>
 				</Avatar>

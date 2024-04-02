@@ -63,7 +63,7 @@ function NavbarStyle1Content(props: NavbarStyle1ContentProps) {
 				{/* <div className="flex-0 flex items-center justify-center py-48 opacity-10">
 					<img
 						className="w-full max-w-64"
-						src="assets/images/logo/commune.svg"
+						src="assets/images/logo/commune.gif"
 						alt="footer logo"
 					/>
 				</div> */}

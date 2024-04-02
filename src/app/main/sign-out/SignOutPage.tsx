@@ -17,7 +17,7 @@ function SignOutPage() {
 				<div className="mx-auto w-full max-w-320 sm:mx-0 sm:w-320">
 					<img
 						className="mx-auto w-48"
-						src="assets/images/logo/commune.svg"
+						src="assets/images/logo/commune.gif"
 						alt="logo"
 					/>
 
